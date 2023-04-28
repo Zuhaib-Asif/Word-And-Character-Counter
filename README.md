@@ -1,3 +1,6 @@
+# Preview Live Site: 
+https://zuhaib-asif.github.io/Word-And-Character-Counter/
+
 # Word-And-Character-Counter
 
 Installation: To use this character and word counter, simply clone or download the repository and open the index.html file in a web browser.
